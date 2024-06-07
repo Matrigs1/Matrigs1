@@ -1,7 +1,7 @@
 ### 👋 Hello, world! Eu sou o Mateus 🤘
 
-- 🎓 Me graduando em: Sistemas de Informação, atualmente no 8° semestre.
-- 🧡 Analista de Business Inteligence na Tecnocomp! 
-- 🤓 Aprendendo: No trabalho = Power BI, Rest API's e MySQL. Em casa = Python (Flask, Django e Ciência de Dados), C++ (Qt, OpenGL, Unreal Engine) e matemática.
+- 🎓 Formado em Sistemas de Informação :)
+- 🧡 Analista de Dados na Tecnocomp! 
+- 🤓 Aprendendo: No trabalho = Python (Pandas, PySpark) e NoSQL. Em casa = Python no geral, C++ (Qt, Vulkan, Unreal Engine) e matemática.
 - 📫 Como me contatar: matrigslima@gmail.com
-- 🎠 Hobbies: ouvir música, tocar guitarra (aprendendo), jogar video-game, ler HQ's, assistir futebol e criar coisas!
+- 🎠 Hobbies: ouvir música, tocar guitarra (aprendendo), jogar video-game, ler HQ's, criar coisas, jogar e assistir futebol!
